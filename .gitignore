@@ -1,7 +1,8 @@
 starving-artist-jekyll-theme-*.gem
 _site
-.sass-cache
 .asset-cache
+.sass-cache
+.jekyll-cache
 .jekyll-metadata
 
 .bin
